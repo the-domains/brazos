@@ -3,9 +3,6 @@ author:
   - name: wired
     url: 'http://twitter.com/wired'
     avatar:
-      src: 'https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_400x400.png'
-      width: 400
-      height: 400
       colors:
         - - 6
           - 6
@@ -16,11 +13,14 @@ author:
         - - 175
           - 175
           - 175
+      width: 400
+      src: 'https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_400x400.png'
+      height: 400
 related: []
 publisher:
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
   url: 'http://twitter.com'
   name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
   domain: twitter.com
 keywords:
   - zxcri7pvc7
@@ -41,11 +41,12 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/wired/status/703677497091739648'
-datePublished: '2016-02-27T20:49:12.314Z'
-dateModified: '2016-02-27T20:47:55.260Z'
+datePublished: '2016-02-27T20:49:52.079Z'
+dateModified: '2016-02-27T20:49:17.281Z'
 title: Bringing tech to RE
 sourcePath: _posts/2016-02-27-bringing-tech-to-re.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
