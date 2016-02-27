@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8996416
+color:
+  saturation: 0.2437276
+  lightness: 0.2114695
+  brandStrength: 0.6612903
+  rhythmicContrast: 0.2956989
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Brazos
