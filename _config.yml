@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.516129
 color:
   saturation: 0.2437276
   brandStrength: 0
-  lightness: 0.2114695
+  rhythmicContrast: 0.2956989
   brandColors:
     - '#000000'
     - '#E1D10E'
     - '#E9E9E9'
     - '#646464'
     - '#ABABAB'
-  rhythmicContrast: 0.2956989
-layout_spectrum: 1
+  lightness: 0.2114695
+layout_spectrum: 0.9265233
 name: Brazos
