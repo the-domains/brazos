@@ -4,7 +4,7 @@
         <description><![CDATA[Brazos]]></description>
         <link>https://thegrid.ai/brazos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 20:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 20:59:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brazos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bringing tech to RE]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/brazos/google-is-better-than-zillow-and-trulia/index.html</link>
             <guid isPermaLink="false">16328ab7-f7de-42fe-90fd-0ec1c809b542</guid>
             <pubDate>Sat, 27 Feb 2016 20:56:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tennessee]]></title>
-            <description><![CDATA[<article><h1>Tennessee</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9dc0d620702b8914b0529c1ca7effc15b7f4bad.png"></article>]]></description>
-            <link>https://thegrid.ai/brazos/tennessee/index.html</link>
-            <guid isPermaLink="false">35e43a7f-6911-4690-8e77-f0be96bf1367</guid>
-            <pubDate>Sat, 27 Feb 2016 19:23:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
