@@ -4,16 +4,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.516129
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.2437276
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.2114695
   brandColors:
     - '#FFFFFF'
@@ -21,5 +20,6 @@ color:
     - '#545454'
     - '#D5C75C'
   rhythmicContrast: 0.2956989
+typography_spectrum: 0.516129
 layout_spectrum: 0.9265233
 name: Brazoban
