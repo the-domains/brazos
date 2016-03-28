@@ -1,16 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.516129
 color:
   saturation: 0.2437276
   brandStrength: 0
@@ -22,5 +9,18 @@ color:
     - '#646464'
     - '#ABABAB'
   lightness: 0.2114695
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.9265233
+typography_spectrum: 0.516129
 name: Brazos
